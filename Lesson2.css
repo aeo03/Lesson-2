@@ -1,10 +1,20 @@
 <!--
+    body {
+    background-image: url("https://previews.123rf.com/images/elovich/elovich1704/elovich170400686/75385823-white-wood-texture-background-wooden-table-top-view.jpg");
+    }
+
     h1  {
         color: red;
     }
 
     img {
         width: 400px;
+        margin: auto; /* Important */
+    }
+
+    .divClass {
+        margin: auto; /* Important */ 
+        text-align: center; 
     }
 
     #thirdDiv {
@@ -15,6 +25,7 @@
         border-style: solid;
         border-width: thick;
         border-color: yellow;
+        margin: auto; /* Important */
     }
 
     #spanId {
